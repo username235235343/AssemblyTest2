@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MCUProject Schema="60" Class="CMCUProject" Path="" PathAbs="" ProjectType="0">
+<ProjectFolders/>
+<ProjectFiles>
+<FileItem>
+<MCUFile Class="CMCUFile" Path="&amp;ASCmain.c" PathAbs="&amp;UNIC:\Users\class\Desktop\_uc5041d041e04120410042f _uc5041f0410041f041a0410 _uc4041c0410041a0421\4123\project133\main.c" UseFileOptions="0" FileOptions=""/>
+</FileItem>
+</ProjectFiles>
+<BuildSettings>
+<MCUProjectBuildSettings Class="CMCUProjectBuildSettings" ToolGroupType="3" IntermediatePath="&amp;ASC..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" IntermediatePathAbs="&amp;ASCC:\Users\class\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" OutputPath="&amp;ASC..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" OutputPathAbs="&amp;ASCC:\Users\class\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" TargetFileType="6" SimPath="&amp;ASC..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" SimPathAbs="&amp;ASCC:\Users\class\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" SimFile="&amp;ASCproject133.hex" CodeLoadType="0">
+<Assembler>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="0" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="" OutputPath="&amp;ASC.\" OutputPathAbs="" TargetType="6" IncludeOptions="&amp;ASC$MOD51" PreFilenameOptions="" PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Assembler>
+<Compiler>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="-1" IntermediatePath="&amp;ASC..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" IntermediatePathAbs="&amp;ASCC:\Users\class\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" OutputPath="&amp;ASC..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" OutputPathAbs="&amp;ASCC:\Users\class\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" TargetType="-1" IncludeOptions="" PreFilenameOptions="&amp;ASC--ASMLIST -G -M -N255 -P --OPT=none --CHIP=8051AH  --ERRFORMAT=&quot;error; file %f; line %l; column %c; %s&quot;  --WARNFORMAT=&quot;warning; file %f; line %l; column %c; %s&quot;  --MSGFORMAT=&quot;message; file %f; line %l; column %c; %s&quot; " PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Compiler>
+<Library>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="6" IntermediatePath="&amp;ASC..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" IntermediatePathAbs="&amp;ASCC:\Users\class\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" OutputPath="&amp;ASC..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" OutputPathAbs="&amp;ASCC:\Users\class\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\4123\project133\" TargetType="7" IncludeOptions="" PreFilenameOptions="&amp;ASC r &quot;project133.lib&quot;" PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Library>
+</MCUProjectBuildSettings>
+</BuildSettings>
+</MCUProject>
